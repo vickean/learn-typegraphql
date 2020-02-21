@@ -1,0 +1,14 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "//host": "172.17.0.5",
+  "port": 5432,
+  "username": "postgres",
+  "password": "babuji",
+  "//password": "root",
+  "database": "learn-typegraphql",
+  "dropSchema": false,
+  "synchronize": true,
+  "logging": true,
+  "entities": ["./src/models/*.ts"]
+}
