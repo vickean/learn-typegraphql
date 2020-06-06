@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.10.0",
+    "apollo-server": "^2.14.2",
     "pg": "^7.18.1",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.17.6",
